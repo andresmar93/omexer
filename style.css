@@ -1,0 +1,143 @@
+.lorem {
+  position: fixed;
+  top: 270px;
+  left: 100px;
+  color: white;
+  width: 500px;
+  height: 50px;
+  font-size: 15px;
+  font-family: arial;
+}
+.background {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  height: 600px;
+  width: 1365px;
+}
+.phone{
+  position: absolute;
+  top: 80px;
+  left: 800px;
+  height: 500px;
+  width: 330px;
+}
+.best{
+  position: fixed;
+  font-family: arial;
+  top: 143px;
+  left: 107px;
+  font-size: 45px;
+  color: white;
+  width: 550px;
+}
+.logo{
+  position: absolute;
+  top: 20px;
+  left: 140px;
+}
+.home{
+  position: absolute;
+  top: 80px;
+  left: 70px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+}
+.apple{
+  position: absolute;
+  top: 450px;
+  left: 345px;
+  border-radius: 45px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+  height: 40px;
+  width: 85px;
+}
+.android{
+  position: absolute;
+  top: 450px;
+  left:180px;
+  border-radius: 45px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+  height: 40px;
+  width: 85px;
+}
+.home{
+  position: absolute;
+  top: 25px;
+  left: 350px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+ background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+}
+.about{
+position: absolute;
+top: 25px;
+left: 450px;
+border-radius: 40px;
+height: 30px;
+width: 80px;
+background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+.features{
+  position: absolute;
+  top: 25px;
+  left:550px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+.pricing{
+  position: absolute;
+  top: 25px;
+  left: 650px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+
+.blog{
+  position: absolute;
+  top: 25px;
+  left: 750px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+.primary{
+  position: absolute;
+  top: 25px;
+  left: 850px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+.contact{
+  position: absolute;
+  top: 25px;
+  left: 950px;
+  border-radius: 40px;
+  height: 30px;
+  width: 80px;
+  background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+
+}
+.download{
+position: absolute;
+top: 25px;
+left: 1200px;
+border-radius: 40px;
+height: 30px;
+width: 80px;
+background-image: linear-gradient(-30deg, #6058f9 0%, #dd4ffc 100%);
+}
